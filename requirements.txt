@@ -1,0 +1,3 @@
+# No external dependencies required beyond standard library
+# Tkinter is included with Python but may need system-level installation
+# See README.md for installation instructions
